@@ -12,6 +12,7 @@ build:
     paths:
       - build/          # Save the build result as an artfact
 
+
 pages:
   stage: deploy
   variables:
